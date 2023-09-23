@@ -1,6 +1,5 @@
 Software Engineering Student at The University of Canterbury
 
-Passionate about AI. In particular: Deep Learning and LLMs
 
 
 <!---
