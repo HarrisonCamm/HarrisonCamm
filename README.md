@@ -1,5 +1,4 @@
-Software Engineering Student at The University of Canterbury
-
+Student from the Univerity of Canterbury graduating with a Bachelor's in Computer Science next year who is seeking a grad role in Full-stack or Embedded Systems development.
 
 
 <!---
